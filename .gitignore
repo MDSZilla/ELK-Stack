@@ -1,0 +1,4 @@
+docker/elasticsearch
+/node/package-lock.json
+node_modules
+.vscode
